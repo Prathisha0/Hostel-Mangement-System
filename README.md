@@ -7,7 +7,6 @@ if conn.is_connected():
     print(&#39;connected succesfully&#39;)
 else:
     print(&#39;not connected&#39;)
-
 c1=conn.cursor()
 #c1.execute(&quot;create table
 hostel_management(roll_no int primary key,name
