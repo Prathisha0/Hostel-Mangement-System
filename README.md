@@ -12,7 +12,6 @@ c1=conn.cursor()
 hostel_management(roll_no int primary key,name
 varchar(20),address varchar(100),room_no
 int,dept varchar(15),fees int,bal int)
-
 print(&quot;WELCOME TO HOSTEL MANAGEMENT&quot;)
 print(&quot;1.ADMISSION FORM&quot;)
 print(&quot;2.FEE CHECKING&quot;)
